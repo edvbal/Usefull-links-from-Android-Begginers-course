@@ -41,6 +41,7 @@ Article about why learning to code is so damn hard https://www.vikingcodeschool.
 Additional courses
 
 Intro to Java programming https://www.udacity.com/course/intro-to-java-programming--cs046
+
 GitHub course https://www.udacity.com/course/how-to-use-git-and-github--ud775
 Google Location Services on Android https://www.udacity.com/course/google-location-services-on-android--ud876-1
 Google Analytics for Android https://www.udacity.com/course/google-analytics-for-android--ud876-2
