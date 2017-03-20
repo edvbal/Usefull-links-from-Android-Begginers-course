@@ -1,5 +1,3 @@
-# Usefull-links-from-Android-Begginers-course
-
 Usefull tips n tricks
 
 Vocabulary glossary https://developers.google.com/android/for-all/vocab-words/?hl=en
@@ -33,7 +31,7 @@ Alice on G+ https://plus.google.com/+AliceYangColeman
 Android Developers G+ community https://plus.google.com/communities/105153134372062985968
 Google Developers profiles https://developers.google.com/experts/all/technology/android?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
 
-Articles
+Articles 
 
 Weekly newsletter about latest news in Android development http://androidweekly.net/
 Curates the best of Material design inspiration and tools https://material.uplabs.com/
@@ -79,4 +77,5 @@ Android version history wiki https://en.wikipedia.org/wiki/Android_version_histo
 Info about Android Studio debugging 
 https://developer.android.com/studio/profile/ddms.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
 https://developer.android.com/studio/debug/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+
 
